@@ -1,0 +1,6 @@
+Navigating through folders: cd folderName
+Creating a new folder: mkdir folderName
+Create a new text file: touch fileName.txt
+
+
+Git Practice
